@@ -1,0 +1,15 @@
+C:\Users\User\Documents\shahnaz\ClasstaskUser\bin\Debug\net6.0\ClasstaskUser.exe
+C:\Users\User\Documents\shahnaz\ClasstaskUser\bin\Debug\net6.0\ClasstaskUser.deps.json
+C:\Users\User\Documents\shahnaz\ClasstaskUser\bin\Debug\net6.0\ClasstaskUser.runtimeconfig.json
+C:\Users\User\Documents\shahnaz\ClasstaskUser\bin\Debug\net6.0\ClasstaskUser.dll
+C:\Users\User\Documents\shahnaz\ClasstaskUser\bin\Debug\net6.0\ClasstaskUser.pdb
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.csproj.AssemblyReference.cache
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.AssemblyInfo.cs
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.dll
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\refint\ClasstaskUser.dll
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.pdb
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ClasstaskUser.genruntimeconfig.cache
+C:\Users\User\Documents\shahnaz\ClasstaskUser\obj\Debug\net6.0\ref\ClasstaskUser.dll
